@@ -1,6 +1,6 @@
 # Site settings
 title: 时光眨眼
-SEOTitle: 时光一眨眼 - 
+SEOTitle: 时光一眨眼 - 记录生活点滴
 header-img: img/post-bg-grass.jpg
 email: quake1020@outlook.com
 description: "记录生活中的点滴"
@@ -11,7 +11,7 @@ github_repo: "https://github.com/timeblick/timeblick.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Temet nosce"
+sidebar-about-description: "Timeblick"
 sidebar-avatar: /img/about-Q4.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
