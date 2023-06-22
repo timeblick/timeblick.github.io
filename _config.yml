@@ -1,6 +1,6 @@
 # Site settings
 title: 时光眨眼
-SEOTitle: 时光一眨眼 - 
+SEOTitle: 时光一眨眼 - 记录生活点滴
 header-img: img/post-bg-grass.jpg
 email: quake1020@outlook.com
 description: "记录生活中的点滴"
@@ -11,7 +11,7 @@ github_repo: "https://github.com/timeblick/timeblick.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Temet nosce"
+sidebar-about-description: "Timeblick"
 sidebar-avatar: /img/about-Q4.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -61,12 +61,12 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: d18b343dd9c7ca49518a                            #生成的clientID
   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
-  repo: klovien.github.io    #仓库名称
-  owner: klovien    #github用户名
-  admin: klovien
+  repo: timeblick.github.io    #仓库名称
+  owner: timeblick    #github用户名
+  admin: timeblick
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
